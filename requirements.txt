@@ -1,0 +1,4 @@
+streamlit==1.26.0  # Replace with the version you are using
+roboflow==1.1.6  # Replace with the version you are using
+opencv-python==4.7.0.72 # Replace with the version you are using
+numpy==1.22.4  # Replace with the version you are using
